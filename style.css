@@ -1,0 +1,10 @@
+.container{
+    max-width: 62.5rem;
+    margin: auto;
+}
+h2{
+    padding-top: 4rem;
+}
+p{
+    padding-top: 1.25rem;
+}
